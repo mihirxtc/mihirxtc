@@ -26,7 +26,7 @@
 ```yaml
 name: Mihir Menon
 handle: mihirxtc
-location: Ahmedabad, Gujarat, India
+location: Leicester, United Kingdom
 focus: DevOps | Cloud Infrastructure | IaC | CI/CD
 currently_building:
   - Production-grade AWS deployments with Terraform
